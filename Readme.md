@@ -77,11 +77,6 @@ For each scenario, the simulator calculates:
 - Minimum 4 significant Git commits
 - Detailed commit messages describing changes
 
-## Licensing
-[Specify your project's license here, e.g., MIT, GPL]
-
-## Contributions
-[Optional: Guidelines for contributing to the project]
 
 ## Known Limitations
 - Simplified simulation model
@@ -94,6 +89,6 @@ For each scenario, the simulator calculates:
 - Support for additional WiFi standards
 
 ## Authors
-[Your Name]
-[Institution]
+[Aman Sharma]
+[IIIT Delhi]
 Monsoon 2024
